@@ -1,3 +1,3 @@
-#MyApp
+# MyApp
 
-This is my app!
+This is my GitHub repository refresher :computer:
